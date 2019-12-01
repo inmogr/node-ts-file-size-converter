@@ -1,6 +1,7 @@
 {
     "name": "file-size-converter",
     "version": "1.0.0",
+    "prepublish": "tsc",
     "description": "this is a utility package to help converting file size from specific unit to another unit",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
